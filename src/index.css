@@ -2,8 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-* {
-    color: #fff;
+:root {
+    --bc: 255 100% 100%;
 }
 
 .custom-card-image .card.image-full:before {
